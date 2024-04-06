@@ -1,0 +1,30 @@
+
+body{
+    border-color: white;
+    width: 65%;
+    background-color: rgb(252, 216, 173);
+}
+.Curriculo {
+    background-color: white;
+    margin: 30%;
+    width: 100%;
+    border-radius: 1%;
+}
+
+.formataçao {
+    display: flex;
+}
+
+.img {
+    flex: 0 0  30%;
+    margin-right: 20px;
+    
+}
+
+.img img {
+    width: 100%;
+}
+
+.dados {
+    flex: 1;
+}
